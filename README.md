@@ -1,4 +1,4 @@
-# Data88E
+# DATA 88E
 Coursework for DATA 88E: Economic Models with Dr. Eric Van Dusen. 
 
 ## Course Description
